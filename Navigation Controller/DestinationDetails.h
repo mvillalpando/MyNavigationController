@@ -12,6 +12,6 @@
 
 @interface DestinationDetails : UIViewController
 
-
+@property NSString *MySelection;
 
 @end
